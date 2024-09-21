@@ -22,7 +22,7 @@ Installation
 Clone the repository
 bash
 Copy code
-git clone https://github.com/your-username/task-manager-app.git
+git clone https://github.com/apekshasinghh/task-manager-app.git
 cd task-manager-app
 Backend Setup
 Navigate to the backend folder:
